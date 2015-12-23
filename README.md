@@ -14,7 +14,7 @@ Dietro un cms ce sempre un exploid.
 Noi usiamo un semplice exploid per agguantare i file .m3u e usarli per il nostro scopo.
 
 ## Dillemma etico
-Anche se questi servizzi sono illegali, rubare da un ladro e comunque rubare.
+Anche se questi servizzi sono illegali, rubare ad un ladro e comunque rubare.
 
 
 ## Come usare l'applicativo
@@ -23,7 +23,10 @@ Anche se questi servizzi sono illegali, rubare da un ladro e comunque rubare.
 * `cd` dentro `iptv`
 * lancia `pip install -r requirements.txt` in modo da installare le dipendenze
 * lancia `python iptv_0.9.py`
-* Usa il menu dell'applicativo e fai'
+* Usa il menu dell'applicativo e fai qualcosa.
+
+![alt tag](screenshot/demo.jpg)
+
 
 
 ## Compatibilità

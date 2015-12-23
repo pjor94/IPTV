@@ -28,4 +28,4 @@ Anche se questi servizzi sono illegali, rubare da un ladro e comunque rubare.
 
 ## Compatibilità
 
-Il programma funziona su Windows,Linux and Mac OSX. Richiede solo python, meglio se python 3!
+Il programma funziona su Windows,Linux & Mac OSX. Richiede solo python, meglio se python 3!

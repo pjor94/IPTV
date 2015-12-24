@@ -28,22 +28,22 @@ def menu():
 
 while True:
     menu()
-    choosenMenu = int(raw_input("Selezionare un opzione: "))
-    if choosenMenu == 0:
+    SceltaMenu = int(raw_input("Selezionare un opzione: "))
+    if SceltaMenu == 0:
         print colored.red("Addio")
         break;
-    elif choosenMenu == 1:
+    elif SceltaMenu == 1:
         print colored.green("Cercando Server, attendi")
         cr.search_links()
         print colored.green("Fatto, 15 URLs trovati")
-    elif choosenMenu == 2:
+    elif SceltaMenu == 2:
         print colored.green("Stampo lista dei server")
         for index, server in enumerate(cr.parsedUrls):
             print "[" + str(index) + "] - " + server
-    elif choosenMenu == 3:
+    elif SceltaMenu == 3:
         result =  cr.search_accounts()
         print colored.green(result)
-    elif choosenMenu == 4:
+    elif SceltaMenu == 4:
         index = int(raw_input("Inserisci il numero difianco al URL del server: "))
         try:
             url = cr.parsedUrls[index]

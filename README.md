@@ -25,7 +25,7 @@ Anche se questi servizzi sono illegali, rubare ad un ladro e comunque rubare.
 * lancia `python iptv_0.9.py`
 * Usa il menu dell'applicativo e fai qualcosa.
 
-![alt tag](screenshot/demo.jpg)
+![alt tag](http://philiporla.it/1.png)
 
 
 

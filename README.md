@@ -1,4 +1,4 @@
-# IPTV v.0.9 by PJO94
+# IPTV v.0.9 by PJOR94
 
    
 Questo programma e solo per uso DIMOSTRATIVO. NON USARE PER FINI PERSONALI
